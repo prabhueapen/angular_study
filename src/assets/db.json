@@ -1,0 +1,30 @@
+{
+  "shipping" : [
+    {
+      "type": "OvernightFile",
+      "price": 25.99
+    },
+    {
+      "type": "2-DayFile",
+      "price": 9.99
+    },
+    {
+      "type": "10-DayFile",
+      "price": 0
+    },
+    {
+      "type": "PostalFile",
+      "price": 2.99
+    } 
+  ],
+"contacts" :   [
+     {  "id":  1,  "name":  "Contact 1fromfile", "email": "contact1fromfile@email.com" },
+     {  "id":  2,  "name":  "Contact 2fromfile", "email": "contact2fromfile@email.com" },
+     {  "id":  3,  "name":  "Contact 3fromfile", "email": "contact3fromfile@email.com" },
+     {  "id":  4,  "name":  "Contact 4fromfile", "email": "contact4fromfile@email.com" },
+     {  "id":  5,  "name":  "Contact 5fromfile", "email": "contact5fromfile@email.com" } ,
+     {  "id":  6,  "name":  "Contact 5fromfile", "email": "contact6fromfile@email.com" }  
+
+   ] 
+
+            }
